@@ -48,6 +48,10 @@
 ---
 
 
+### 🌐 My Links
+- 🧭 **Website:** [no0bitah.github.io](https://no0bitah.github.io/)
+- 🎨 **Front-End Portfolio:** [Dropmark Showcase](https://jomaridaison.dropmark.com/)
+
 ## 💡 Fun Facts
 
 - 🔭 I'm currently working on building my way to Data Engineering role
